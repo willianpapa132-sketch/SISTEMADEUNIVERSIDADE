@@ -10,7 +10,7 @@ public class Professor {
     }
     //mostrar professor
     public void mostrarProfessor(){
-        System.out.println("Nome: " + nome);
+        System.out.println("Professor: " + nome);
         System.out.println("Formação: " + formacao);
     }
 }
